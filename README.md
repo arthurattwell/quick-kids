@@ -2,6 +2,8 @@
 
 I wanted to play 30 Seconds with my seven-year-old, but our set is really old, and there is no way he knows 'Melanie Griffith'. So I made this instead. The grown-ups play the usual cards, and the kids play these ones.
 
+[Play now!](https://quick-kids.netlify.com/)
+
 ## Development
 
 Michelle and I maintain the clues in a [Google Sheet](https://docs.google.com/spreadsheets/d/1dDswbV5O-VVTHNIRhtP-fa-pZOlWYPqMVDMmPtua_EM/edit?usp=sharing).
