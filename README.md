@@ -10,7 +10,7 @@ Tip: If you only have three people, two play as guessers, and one is the describ
 
 We maintain the clues in a [Google Sheet](https://docs.google.com/spreadsheets/d/1dDswbV5O-VVTHNIRhtP-fa-pZOlWYPqMVDMmPtua_EM/edit?usp=sharing).
 
-I download a CSV to this repo as `data/clues.csv`. With Node isntalled, I run `npm run refresh` to transform the updated data and generate `cards.js`.
+I download a CSV to this repo as `data/clues.csv`. With Node installed and after `npm install`, I run `npm run refresh` to transform the updated data and generate `cards.js`.
 
 When working on the site, I'll run `npm start` instead, which refreshes the data from the CSV, builds and watches CSS, and runs a local server.
 
