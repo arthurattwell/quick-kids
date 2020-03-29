@@ -3,6 +3,7 @@
 
 // Options
 var csv = 'data/clues.csv';
+var output = 'public/cards.js';
 
 // Modules
 var parse = require('csv-parse/lib/sync');
@@ -26,7 +27,7 @@ function clues(csv) {
 function writeDataFile(cards) {
     'use strict';
     return new Promise(function (resolve, reject) {
-        fs.writeFile('public/data.js',
+        fs.writeFile(output,
                 'var cards = ' + JSON.stringify(cards),
                 'utf8',
                 function (error) {
