@@ -127,30 +127,20 @@ body {
 }
 
 .about {
-    bottom: 1em;
+    bottom: 0;
     color: $darkgrey;
-    font-size: 0.8em;
-    left: 1em;
+    font-size: 0.8rem;
+    left: 0;
+    padding: 1rem;
     position: absolute;
 
-    .details {
-        padding: 1em 1em 1em 0;
-        visibility: hidden;
-
-        &:hover {
-            visibility: visible;
-        }
-    }
     .name {
         font-weight: bold;
-        padding: 1em 0 1em 0;
-
-        &:hover {
-            & + .details {
-                visibility: visible;
-            }
-        }
     }
+
+    .reload {}
+
+    .details {}
 }
 
 a {

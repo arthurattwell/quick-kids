@@ -73,21 +73,14 @@ body {
       display: none; }
 
 .about {
-  bottom: 1em;
+  bottom: 0;
   color: #6a6a6a;
-  font-size: 0.8em;
-  left: 1em;
+  font-size: 0.8rem;
+  left: 0;
+  padding: 1rem;
   position: absolute; }
-  .about .details {
-    padding: 1em 1em 1em 0;
-    visibility: hidden; }
-    .about .details:hover {
-      visibility: visible; }
   .about .name {
-    font-weight: bold;
-    padding: 1em 0 1em 0; }
-    .about .name:hover + .details {
-      visibility: visible; }
+    font-weight: bold; }
 
 a {
   color: inherit; }
