@@ -1,10 +1,33 @@
 // Variables
 $fonts-system: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+
+// Card dimensions
+$card-height: 15rem;
+$card-wdith: 25rem;
+$card-padding-top: 1rem;
+$card-padding-bottom: 1rem;
+$card-padding-left: 3rem;
+$card-padding-right: 3rem;
+
+// Colours
 $card-color: #efef51;
+$timeout-color: #ef51ef;
 $black: #262626;
 $darkgrey: #6a6a6a;
 $grey: #b3b3b3;
 $offwhite: #e2e2e2;
+
+// Keyframes for animation
+@keyframes timer {
+    from {
+        background-color: $black;
+        width: 0;
+    }
+    to {
+        background-color: $black;
+        width: calc(100% + 6em);
+    }
+}
 
 body {
     // Flex
@@ -33,23 +56,46 @@ body {
     // Appearance
     background-color: $card-color;
     box-shadow: 0px 0px 40px -10px $grey;
-    height: 15em;
+    height: $card-height;
     max-height: 90vh;
     max-width: 90vw;
-    padding: 1em 3em;
-    width: 25em;
+    padding-top: $card-padding-top;
+    padding-bottom: $card-padding-bottom;
+    padding-left: $card-padding-left;
+    padding-right: $card-padding-right;
+    width: $card-wdith;
 
     ul {
-        // Flex
+        // Flex and position
         display: flex;
         flex-direction: column;
         flex: 1 1 auto;
         justify-content: space-evenly;
+        position: relative; // for positioning of timer
 
         // Appearance
         list-style-type: none;
         margin: 0;
         padding: 0;
+
+        // Timer
+        &::after {
+            bottom: calc((#{$card-height} - 100%) / -2); // stays in place with card padding
+            content: "";
+            display: block;
+            height: 0.2em;
+            left: -($card-padding-left); // card padding
+            position: absolute;
+
+            // Animaion
+            animation-duration: 30s;
+            animation-name: timer;
+            animation-timing-function: linear;
+
+            // Final state after animation
+            width: calc(100% + #{$card-padding-left} + #{$card-padding-right}); // ul width plus card padding
+            background-color: $timeout-color;
+        }
     }
 }
 
@@ -88,6 +134,7 @@ body {
     position: absolute;
 
     .details {
+        padding: 1em 1em 1em 0;
         visibility: hidden;
 
         &:hover {
@@ -96,10 +143,7 @@ body {
     }
     .name {
         font-weight: bold;
-
-        a {
-            text-decoration: none;
-        }
+        padding: 1em 0 1em 0;
 
         &:hover {
             & + .details {

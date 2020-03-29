@@ -1,3 +1,11 @@
+@keyframes timer {
+  from {
+    background-color: #262626;
+    width: 0; }
+  to {
+    background-color: #262626;
+    width: calc(100% + 6em); } }
+
 body {
   align-items: center;
   display: flex;
@@ -16,19 +24,35 @@ body {
   justify-content: center;
   background-color: #efef51;
   box-shadow: 0px 0px 40px -10px #b3b3b3;
-  height: 15em;
+  height: 15rem;
   max-height: 90vh;
   max-width: 90vw;
-  padding: 1em 3em;
-  width: 25em; }
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  width: 25rem; }
   #card ul {
     display: flex;
     flex-direction: column;
     flex: 1 1 auto;
     justify-content: space-evenly;
+    position: relative;
     list-style-type: none;
     margin: 0;
     padding: 0; }
+    #card ul::after {
+      bottom: calc((15rem - 100%) / -2);
+      content: "";
+      display: block;
+      height: 0.2em;
+      left: -3rem;
+      position: absolute;
+      animation-duration: 30s;
+      animation-name: timer;
+      animation-timing-function: linear;
+      width: calc(100% + 3rem + 3rem);
+      background-color: #ef51ef; }
 
 .buttons {
   display: flex;
@@ -55,13 +79,13 @@ body {
   left: 1em;
   position: absolute; }
   .about .details {
+    padding: 1em 1em 1em 0;
     visibility: hidden; }
     .about .details:hover {
       visibility: visible; }
   .about .name {
-    font-weight: bold; }
-    .about .name a {
-      text-decoration: none; }
+    font-weight: bold;
+    padding: 1em 0 1em 0; }
     .about .name:hover + .details {
       visibility: visible; }
 
