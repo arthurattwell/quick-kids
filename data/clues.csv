@@ -1,66 +1,70 @@
 Theme,Type,Clue
-General knowledge,Activity,Running
-General knowledge,Activity,Swimming
-General knowledge,Activity,Dancing
-General knowledge,Activity,Singing
-General knowledge,Animal,Baboon
-General knowledge,Animal,Black mamba
-General knowledge,Animal,Budgie
-General knowledge,Animal,Butterfly
-General knowledge,Animal,Chameleon
-General knowledge,Animal,Crocodile
-General knowledge,Animal,Dolphin
-General knowledge,Animal,Giraffe
-General knowledge,Animal,Hamster
-General knowledge,Animal,Hippopotamus
-General knowledge,Animal,Meerkat
-General knowledge,Animal,Narwhal
-General knowledge,Animal,Panda
-General knowledge,Animal,Shark
-General knowledge,Animal,Tiger
-General knowledge,Animal,Toucan
-General knowledge,Animal,Tyrannosaurus Rex
-General knowledge,Animal,Warthog
-General knowledge,Animal,Zebra
-General knowledge,Animal,Koala bear
-General knowledge,Animal,Kangaroo
-General knowledge,Animal,Boomslang
-General knowledge,Animal,Platypus
-General knowledge,Animal,Giant squid
-General knowledge,Animal,Octopus
-General knowledge,Animal,Vampire bat
-General knowledge,Animal,Fish eagle
-General knowledge,Animal,Blue whale
-General knowledge,Animal,Anenome
-General knowledge,Animal,Clown fish
-General knowledge,Animal,Polar bear
-General knowledge,Animal,Rabbit
-General knowledge,Animal,Dragonfly
-General knowledge,Animal,Ostrich
-Harry Potter,Animal,Cat
-Harry Potter,Animal,Dapple-grey stallion
-Harry Potter,Animal,Hippogriff
-Harry Potter,Animal,Mandrake
-Harry Potter,Animal,Phoenix
-Harry Potter,Animal,Spiders
-General knowledge,Artefact,Dishwasher
-General knowledge,Artefact,Microwave
-General knowledge,Artefact,Trampoline
-General knowledge,Artefact,Slide
-General knowledge,Artefact,Swing
-General knowledge,Artefact,Tap
-General knowledge,Artefact,Bath
-General knowledge,Artefact,Oven
-Harry Potter,Artefact,Candles
-Harry Potter,Artefact,Ear muffs
-Harry Potter,Artefact,Erised
-Harry Potter,Artefact,Golden Snitch
-Harry Potter,Artefact,Hand mirror
+General knowledge,Activity,running
+General knowledge,Activity,swimming
+General knowledge,Activity,dancing
+General knowledge,Activity,singing
+General knowledge,Animal,baboon
+General knowledge,Animal,black mamba
+General knowledge,Animal,budgie
+General knowledge,Animal,butterfly
+General knowledge,Animal,chameleon
+General knowledge,Animal,crocodile
+General knowledge,Animal,dolphin
+General knowledge,Animal,giraffe
+General knowledge,Animal,hamster
+General knowledge,Animal,hippopotamus
+General knowledge,Animal,meerkat
+General knowledge,Animal,narwhal
+General knowledge,Animal,panda
+General knowledge,Animal,shark
+General knowledge,Animal,tiger
+General knowledge,Animal,toucan
+General knowledge,Animal,tyrannosaurus rex
+General knowledge,Animal,warthog
+General knowledge,Animal,zebra
+General knowledge,Animal,koala bear
+General knowledge,Animal,kangaroo
+General knowledge,Animal,boomslang
+General knowledge,Animal,platypus
+General knowledge,Animal,giant squid
+General knowledge,Animal,octopus
+General knowledge,Animal,vampire bat
+General knowledge,Animal,fish eagle
+General knowledge,Animal,blue whale
+General knowledge,Animal,anenome
+General knowledge,Animal,clown fish
+General knowledge,Animal,polar bear
+General knowledge,Animal,rabbit
+General knowledge,Animal,dragonfly
+General knowledge,Animal,ostrich
+Harry Potter,Animal,cat
+Harry Potter,Animal,dapple-grey stallion
+Harry Potter,Animal,hippogriff
+Harry Potter,Animal,mandrake
+Harry Potter,Animal,phoenix
+Harry Potter,Animal,spiders
+General knowledge,Artefact,dishwasher
+General knowledge,Artefact,microwave
+General knowledge,Artefact,trampoline
+General knowledge,Artefact,slide
+General knowledge,Artefact,swing
+General knowledge,Artefact,tap
+General knowledge,Artefact,bath
+General knowledge,Artefact,oven
+General knowledge,Artefact,wheelbarrow
+General knowledge,Artefact,ironing board
+General knowledge,Artefact,washing line
+Harry Potter,Artefact,candles
+Harry Potter,Artefact,ear muffs
+Harry Potter,Artefact,Mirror of Erised
+Harry Potter,Artefact,golden snitch
+Harry Potter,Artefact,hand mirror
 Harry Potter,Artefact,Knight Bus
-Harry Potter,Artefact,Parchment
-Harry Potter,Artefact,Quill
-Harry Potter,Artefact,Unicorn hair
-Harry Potter,Artefact,Wand
+Harry Potter,Artefact,parchment
+Harry Potter,Artefact,quill
+Harry Potter,Artefact,unicorn hair
+Harry Potter,Artefact,wand
+Harry Potter,Artefact,cauldron
 Literature,Book,Don't let the pigeon drive the bus
 General knowledge,Brand,Lego
 Popular culture,Brand,Rainbocorn
@@ -68,6 +72,30 @@ Popular culture,Brand,Sylvanian Families
 Popular culture,Brand,YouTube
 Popular culture,Brand,Takealot
 Popular culture,Brand,Pick'n'Pay
+Popular culture,Brand,Netflix
+Popular culture,Brand,Uber
+Popular culture,Brand,All Gold
+Popular culture,Brand,Android
+Popular culture,Brand,Samsung
+Popular culture,Brand,McDonalds
+Popular culture,Brand,KFC
+Popular culture,Brand,Nandos
+Popular culture,Brand,Coca-Cola
+Popular culture,Brand,Simba
+Popular culture,Brand,Shopkins
+Popular culture,Brand,Stickies
+Popular culture,Brand,Transformers
+Popular culture,Brand,Build-a-Bear
+Popular culture,Brand,Top Trumps
+Popular culture,Brand,Disney
+Popular culture,Brand,Hot Wheels
+Popular culture,Brand,Enchantimals
+Popular culture,Brand,Hatchimals
+Popular culture,Brand,iPad
+Popular culture,TV show,Shimmer and Shine
+Popular culture,TV show,Blaze and the Monster Machines
+Popular culture,Movie,Smurfs
+Popular culture,Movie,Ice Age
 Harry Potter,Character,Argus Filch
 Harry Potter,Character,Aragog
 Harry Potter,Character,Basilisk
@@ -113,68 +141,101 @@ Popular culture,Character,Pinky Pie
 Popular culture,Character,Po
 Popular culture,Character,Buzz Lightyear
 Popular culture,Character,Daddy Pig
-Harry Potter,Creature,Pixies
-Harry Potter,Creature,Poltergeist
+Popular culture,Character,Elsa
+Popular culture,Character,Owlette
+Literature,Character,Tigger
+Popular culture,Character,Darth Vader
+Popular culture,Character,Luke Skywalker
+Popular culture,Character,Princess Leia
+General knowledge,Clothing,gloves
+General knowledge,Clothing,scarf
+General knowledge,Clothing,top hat
+General knowledge,Clothing,mask
+General knowledge,Clothing,apron
+General knowledge,Clothing,swimming goggles
+General knowledge,Clothing,blazer
+General knowledge,Clothing,bowtie
+General knowledge,Clothing,ballgown
+General knowledge,Clothing,veil
+Harry Potter,Creature,pixies
+Harry Potter,Creature,poltergeist
 Popular culture,Creature,Podling
 Popular culture,Creature,Skeksis
-General knowledge,Food,Fish fingers
-General knowledge,Food,Hot dog
-General knowledge,Food,Macaroni cheese
-General knowledge,Food,Nachos
-General knowledge,Food,Neapolitan ice-cream
-General knowledge,Food,Omelette
-General knowledge,Food,Pancake
-General knowledge,Food,Sushi
-General knowledge,Food,Watermelon
-General knowledge,Food,Grapes
-General knowledge,Food,Pizza
-General knowledge,Food,Mashed potatoes
-General knowledge,Food,Broccoli
-General knowledge,Food,Marshmallow Easter egg
-General knowledge,Food,Olive
-General knowledge,Food,Lollypop
-General knowledge,Food,Carrot cake
-General knowledge,Food,Pea soup
-General knowledge,Food,Doughnut
-General knowledge,Food,Curry
-General knowledge,Food,Kebab
-General knowledge,Food,Onion
-General knowledge,Food,Banana
-General knowledge,Food,Lemon Cream
+General knowledge,Food,fish fingers
+General knowledge,Food,hot dog
+General knowledge,Food,macaroni cheese
+General knowledge,Food,nachos
+General knowledge,Food,neapolitan ice-cream
+General knowledge,Food,omelette
+General knowledge,Food,pancake
+General knowledge,Food,sushi
+General knowledge,Food,watermelon
+General knowledge,Food,grapes
+General knowledge,Food,pizza
+General knowledge,Food,mashed potatoes
+General knowledge,Food,broccoli
+General knowledge,Food,marshmallow Easter egg
+General knowledge,Food,olive
+General knowledge,Food,lollypop
+General knowledge,Food,carrot cake
+General knowledge,Food,pea soup
+General knowledge,Food,doughnut
+General knowledge,Food,curry
+General knowledge,Food,kebab
+General knowledge,Food,onion
+General knowledge,Food,banana
+General knowledge,Food,lemon cream
 General knowledge,Food,KitKat
-General knowledge,Food,Coconut milk
-Harry Potter,Food,Chocolate
+General knowledge,Food,Mini Cheddars
+General knowledge,Food,biltong
+General knowledge,Food,yoghurt
+General knowledge,Food,coconut milk
+Harry Potter,Food,chocolate
 General knowledge,Food,Zoo biscuit
-Harry Potter,Force,Wingardium Leviosa
+Harry Potter,Phenomenon,Wingardium Leviosa
 General knowledge,Food,Smarties
 General knowledge,Food,Jelly Tots
-General knowledge,Food,Naartjie
+General knowledge,Food,naartjie
 General knowledge,Food,NikNaks
-General knowledge,Food,Toasted cheese
-General knowledge,Food,Fish and chips
-General knowledge,Game,Chess
-General knowledge,Game,Noughts and crosses
+General knowledge,Food,toasted cheese
+General knowledge,Food,fish and chips
+General knowledge,Food,salt
+General knowledge,Food,pepper
+General knowledge,Food,tomato sauce
+General knowledge,Game,chess
+General knowledge,Food,baked beans
+General knowledge,Game,noughts and crosses
 General knowledge,Game,Rummykub
 General knowledge,Game,Uno
-Harry Potter,Game,Wizard chess
+Harry Potter,Game,wizard chess
 Popular culture,Game,Dixit
-Popular culture,Game,Hide and seek
-Popular culture,Game,Solitaire
-Popular culture,Game,Snakes and ladders
-Popular culture,Game,Dominos
-Popular culture,Game,Puzzle
+Popular culture,Game,hide and seek
+Popular culture,Game,solitaire
+Popular culture,Game,snakes and ladders
+Popular culture,Game,dominos
+Popular culture,Game,puzzle
 Popular culture,Game,Bananagrams
 Popular culture,Game,Minecraft
 General knowledge,Important person,Bill Gates
 General knowledge,Important person,Donald Trump
 General knowledge,Important person,Nelson Mandela
+General knowledge,Important person,Barack Obama
+General knowledge,Important person,Elon Musk
+General knowledge,Important person,Cyril Ramaphosa
+General knowledge,Celebrity,Taylor Swift
+General knowledge,Celebrity,Lorde
+General knowledge,Celebrity,Sia
+General knowledge,Celebrity,Daniel Radcliffe
 Literature,Important person,Mo Willems
+Literature,Important person,Julia Donaldson
+Literature,Important person,Roald Dahl
+Literature,Important person,David Walliams
 Popular culture,Important person,JK Rowling
-General knowledge,Issue,Climate change
-General knowledge,Magical creature,Dragon
-General knowledge,Magical creature,Fairy
-General knowledge,Magical creature,Mermaid
-General knowledge,Magical creature,Unicorn
+General knowledge,Phenomenon,climate change
+General knowledge,Magical creature,dragon
+General knowledge,Magical creature,fairy
+General knowledge,Magical creature,mermaid
+General knowledge,Magical creature,unicorn
 Popular culture,Movie,Big Hero Six
 Popular culture,Movie,How to Train Your Dragon
 Popular culture,Movie,Neverending Story
@@ -187,30 +248,30 @@ Popular culture,Occasion,Easter
 Popular culture,Occasion,Hannukah
 Popular culture,Occasion,Ramadan
 Popular culture,Occasion,Valentine's Day
-Popular culture,Occasion,Birthday
+Popular culture,Occasion,birthday
 Popular culture,Occasion,Halloween
 Harry Potter,Organisation,Ministry of Magic
-General knowledge,Phenomenon,Rainbow
-General knowledge,Phenomenon,Lightening
-General knowledge,Phenomenon,Wind
-General knowledge,Phenomenon,Full moon
-General knowledge,Phenomenon,Hail storm
-General knowledge,Phenomenon,Mist
-General knowledge,Phenomenon,Monkey's wedding
-General knowledge,Phenomenon,Thunder
-General knowledge,Phenomenon,Shooting star
+General knowledge,Phenomenon,rainbow
+General knowledge,Phenomenon,lightening
+General knowledge,Phenomenon,wind
+General knowledge,Phenomenon,full moon
+General knowledge,Phenomenon,hail storm
+General knowledge,Phenomenon,mist
+General knowledge,Phenomenon,monkey's wedding
+General knowledge,Phenomenon,thunder
+General knowledge,Phenomenon,shooting star
 General knowledge,Place,Amazon
 General knowledge,Place,America
-General knowledge,Habitat,Beach
-General knowledge,Habitat,Ocean
-General knowledge,Habitat,Desert
-General knowledge,Habitat,River
-General knowledge,Habitat,Farm
+General knowledge,Habitat,beach
+General knowledge,Habitat,ocean
+General knowledge,Habitat,desert
+General knowledge,Habitat,river
+General knowledge,Habitat,farm
 General knowledge,Place,India
 General knowledge,Place,Cape Town
 General knowledge,Place,England
 General knowledge,Place,Johannesburg
-General knowledge,Habitat,Rainforest
+General knowledge,Habitat,rainforest
 General knowledge,Place,South Africa
 General knowledge,Place,Australia
 General knowledge,Place,Himalayas
@@ -228,19 +289,19 @@ Harry Potter,Place,Forbidden Forest
 Harry Potter,Place,Great Hall
 Harry Potter,Place,Gringotts
 Harry Potter,Place,Hogsmead
-Harry Potter,Place,Platform Nine and three quarters
+Harry Potter,Place,Platform Nine and Three Quarters
 Harry Potter,Place,Olivander's
 Popular culture,Place,Thra
-General knowledge,Plant,Rose
-General knowledge,Plant,Cactus
-General knowledge,Plant,Palm tree
-General knowledge,Plant,Sunflower
-Harry Potter,Plant,Pumpkins
-General knowledge,Relationship,Cousin
-General knowledge,Relationship,Sibling
-General knowledge,Relationship,Aunt
-General knowledge,Relationship,Grandfather
-Harry Potter,Role,Beater
+General knowledge,Plant,rose
+General knowledge,Plant,cactus
+General knowledge,Plant,palm tree
+General knowledge,Plant,sunflower
+Harry Potter,Plant,pumpkins
+General knowledge,Relationship,cousin
+General knowledge,Relationship,sibling
+General knowledge,Relationship,aunt
+General knowledge,Relationship,grandfather
+Harry Potter,Role,beater
 Popular culture,Song,Let's Go Fly a Kite
 Popular culture,Song,Dance Monkey
 Popular culture,Song,Friday I'm in Love
@@ -253,19 +314,37 @@ Popular culture,Song,If You're Happy and You Know It
 Popular culture,Song,Jingle Bells
 Popular culture,Song,Baby Shark
 Popular culture,Song,Baa Baa Black Sheep
-,,
-General knowledge,Sport,Soccer
-General knowledge,Sport,Tennis
-General knowledge,Sport,Rugby
-Popular culture,Sport,Sumo
-General knowledge,Substance,Diamond
-General knowledge,Substance,Ice
-General knowledge,Substance,Lava
-General knowledge,Substance,Steel
-General knowledge,Substance,Cottonwool
-General knowledge,Substance,Silk
-Harry Potter,Substance,Ruby
-Harry Potter,Thing,Whomping Willow
+Popular culture,Song,Firework
+Popular culture,Song,Waka Waka (This Time for Africa)
+Popular culture,Song,High Hopes
+Popular culture,Song,Happy
+Popular culture,Song,Old Town Road
+General knowledge,Sport,Ruby
+General knowledge,Sport,soccer
+General knowledge,Sport,tennis
+General knowledge,Sport,rugby
+General knowledge,Sport,cricket
+Popular culture,Sport,netball
+General knowledge,Substance,sumo
+General knowledge,Substance,diamond
+General knowledge,Substance,ice
+General knowledge,Substance,lava
+General knowledge,Substance,steel
+General knowledge,Substance,cottonwool
+General knowledge,Substance,silk
+General knowledge,Substance,paper
+General knowledge,Substance,flour
+General knowledge,Substance,glue
+General knowledge,Substance,glass
+General knowledge,Substance,soil
+General knowledge,Substance,crystal
+General knowledge,Substance,clay
+General knowledge,Substance,wax
+General knowledge,Substance,soap
+General knowledge,Substance,oil
+General knowledge,Substance,petrol
+Harry Potter,Substance,velvet
+Harry Potter,Phenomenon,Whomping Willow
 Popular culture,TV show,Odd Squad
 Popular culture,TV show,The Magic Schoolbus
 Popular culture,TV show,Winx
@@ -300,9 +379,16 @@ Popular culture,Movie,Finding Nemo
 Popular culture,Movie,The Incredibles
 Popular culture,Movie,Boss Baby
 Popular culture,Movie,The Lion King
-Popular culture,Character,Minion
+Popular culture,Character,minion
 Popular culture,Movie,Cloudy With a Chance of Meatballs
 Popular culture,Character,Mickey Mouse
+Popular culture,Musical instrument,piano
+Popular culture,Musical instrument,recorder
+Popular culture,Musical instrument,guitar
+Popular culture,Musical instrument,marimbas
+Popular culture,Musical instrument,violin
+Popular culture,Musical instrument,drums
+Popular culture,Musical instrument,saxophone
 Popular culture,TV show,Vampirina
 Popular culture,TV show,Doc McStuffins
 Popular culture,TV show,PJ Masks
@@ -310,7 +396,7 @@ Popular culture,Movie,Toy Story
 Popular culture,TV show,Dora the Explorer
 Literature,Book,James and the Giant Peach
 Literature,Character,Captain Underpants
-Popular culture,Food,Popcorn
+Popular culture,Food,popcorn
 Literature,Fairy Tale,The Three Little Pigs
 Literature,Fairy Tale,Cinderella
 Literature,Fairy Tale,Jack and the Beanstalk
@@ -333,8 +419,54 @@ Popular culture,Movie,Babe
 Popular culture,Movie,The Karate Kid
 Popular culture,Movie,Beauty and the Beast
 Literature,Book,Wind in the Willows
-Literature,Book ,Alice's Adventures in Wonderland
+Literature,Book,Alice's Adventures in Wonderland
 Popular culture,TV show,Octonauts
 Popular culture,Character,Barney
 Popular culture,TV show,Care Bears
 Literature,Character,Curious George
+Literature,Character,Mr Strong
+General knowledge,Role,publisher
+General knowledge,Role,nurse
+General knowledge,Role,astronaut
+General knowledge,Role,teacher
+General knowledge,Role,artist
+General knowledge,Role,dancer
+General knowledge,Role,engineer
+General knowledge,Role,lawyer
+General knowledge,Role,accountant
+General knowledge,Role,writer
+General knowledge,Role,architect
+General knowledge,Role,actor
+General knowledge,Role,doctor
+General knowledge,Role,scientist
+General knowledge,Role,firefighter
+General knowledge,Role,policeman
+Popular culture,Toy,bouncy ball
+Popular culture,Toy,teddy bear
+Popular culture,Toy,bicycle
+Popular culture,Toy,skipping rope
+Popular culture,Toy,doll's house
+Popular culture,Toy,glitter pen
+Popular culture,Toy,yo-yo
+Popular culture,Toy,hula hoop
+Popular culture,Toy,play dough
+General knowledge,Plant,venus flytrap
+General knowledge,Plant,weeping willow
+General knowledge,Plant,oak tree
+General knowledge,Plant,bonsai
+General knowledge,Animal,wolf
+Popular culture,Creature,werewolf
+General knowledge,Plant,bamboo
+General knowledge,Relationship,grandmother
+General knowledge,Animal,owl
+General knowledge,Vehicle,helicopter
+General knowledge,Vehicle,train
+General knowledge,Vehicle,motorbike
+General knowledge,Vehicle,aeroplane
+General knowledge,Vehicle,speed boat
+General knowledge,Vehicle,minibus
+General knowledge,Vehicle,ambulance
+General knowledge,Vehicle,crane
+General knowledge,Vehicle,rocket
+General knowledge,Vehicle,submarine
+General knowledge,Vehicle,rubbish truck
