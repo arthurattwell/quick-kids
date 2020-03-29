@@ -136,13 +136,24 @@ General knowledge,Food,Lollypop
 General knowledge,Food,Carrot cake
 General knowledge,Food,Pea soup
 General knowledge,Food,Doughnut
+General knowledge,Food,Curry
 General knowledge,Food,Kebab
 General knowledge,Food,Onion
 General knowledge,Food,Banana
 General knowledge,Food,Lemon Cream
+General knowledge,Food,KitKat
+General knowledge,Food,Coconut milk
 Harry Potter,Food,Chocolate
+General knowledge,Food,Zoo biscuit
 Harry Potter,Force,Wingardium Leviosa
+General knowledge,Food,Smarties
+General knowledge,Food,Jelly Tots
+General knowledge,Food,Naartjie
+General knowledge,Food,NikNaks
+General knowledge,Food,Toasted cheese
+General knowledge,Food,Fish and chips
 General knowledge,Game,Chess
+General knowledge,Game,Noughts and crosses
 General knowledge,Game,Rummykub
 General knowledge,Game,Uno
 Harry Potter,Game,Wizard chess
@@ -176,6 +187,8 @@ Popular culture,Occasion,Easter
 Popular culture,Occasion,Hannukah
 Popular culture,Occasion,Ramadan
 Popular culture,Occasion,Valentine's Day
+Popular culture,Occasion,Birthday
+Popular culture,Occasion,Halloween
 Harry Potter,Organisation,Ministry of Magic
 General knowledge,Phenomenon,Rainbow
 General knowledge,Phenomenon,Lightening
@@ -185,17 +198,32 @@ General knowledge,Phenomenon,Hail storm
 General knowledge,Phenomenon,Mist
 General knowledge,Phenomenon,Monkey's wedding
 General knowledge,Phenomenon,Thunder
+General knowledge,Phenomenon,Shooting star
 General knowledge,Place,Amazon
 General knowledge,Place,America
+General knowledge,Habitat,Beach
+General knowledge,Habitat,Ocean
+General knowledge,Habitat,Desert
+General knowledge,Habitat,River
+General knowledge,Habitat,Farm
+General knowledge,Place,India
 General knowledge,Place,Cape Town
 General knowledge,Place,England
 General knowledge,Place,Johannesburg
-General knowledge,Place,Rainforest
+General knowledge,Habitat,Rainforest
 General knowledge,Place,South Africa
 General knowledge,Place,Australia
 General knowledge,Place,Himalayas
 General knowledge,Place,London
 General knowledge,Place,Egypt
+General knowledge,Place,China
+General knowledge,Place,Paris
+General knowledge,Place,Table Mountain
+General knowledge,Place,Hillbrow Tower
+General knowledge,Place,Two Oceans Aquarium
+General knowledge,Place,uShaka Marine World
+General knowledge,Place,Kruger National Park
+General knowledge,Place,Knysna
 Harry Potter,Place,Forbidden Forest
 Harry Potter,Place,Great Hall
 Harry Potter,Place,Gringotts
@@ -206,16 +234,26 @@ Popular culture,Place,Thra
 General knowledge,Plant,Rose
 General knowledge,Plant,Cactus
 General knowledge,Plant,Palm tree
+General knowledge,Plant,Sunflower
 Harry Potter,Plant,Pumpkins
 General knowledge,Relationship,Cousin
 General knowledge,Relationship,Sibling
 General knowledge,Relationship,Aunt
 General knowledge,Relationship,Grandfather
 Harry Potter,Role,Beater
-Popular culture,Song,Let's go fly a kite
+Popular culture,Song,Let's Go Fly a Kite
 Popular culture,Song,Dance Monkey
 Popular culture,Song,Friday I'm in Love
 Popular culture,Song,Twinkle Twinkle Little Star
+Popular culture,Song,Shake It Off
+Popular culture,Song,Can't Stop the Feeling
+Popular culture,Song,Let It Go
+Popular culture,Song,The Wheels on the Bus
+Popular culture,Song,If You're Happy and You Know It
+Popular culture,Song,Jingle Bells
+Popular culture,Song,Baby Shark
+Popular culture,Song,Baa Baa Black Sheep
+,,
 General knowledge,Sport,Soccer
 General knowledge,Sport,Tennis
 General knowledge,Sport,Rugby
@@ -251,8 +289,52 @@ Popular culture,TV show,Hey Duggie!
 Popular culture,TV show,My Little Poney
 Popular culture,TV show,Peppa Pig
 Popular culture,TV show,The Great British Bake-off
-Popular culture,TV show,Princess Sofia
+Popular culture,TV show,Sofia the First
+Popular culture,TV show,Charlie and Lola
+Popular culture,TV show,Alvin and The Chipmunks
 Popular culture,Movie,Annie
 Popular culture,Movie,Trolls
 Popular culture,Movie,Inside Out
 Popular culture,Movie,Frozen
+Popular culture,Movie,Finding Nemo
+Popular culture,Movie,The Incredibles
+Popular culture,Movie,Boss Baby
+Popular culture,Movie,The Lion King
+Popular culture,Character,Minion
+Popular culture,Movie,Cloudy With a Chance of Meatballs
+Popular culture,Character,Mickey Mouse
+Popular culture,TV show,Vampirina
+Popular culture,TV show,Doc McStuffins
+Popular culture,TV show,PJ Masks
+Popular culture,Movie,Toy Story
+Popular culture,TV show,Dora the Explorer
+Literature,Book,James and the Giant Peach
+Literature,Character,Captain Underpants
+Popular culture,Food,Popcorn
+Literature,Fairy Tale,The Three Little Pigs
+Literature,Fairy Tale,Cinderella
+Literature,Fairy Tale,Jack and the Beanstalk
+Literature,Fairy Tale,Little Red Riding Hood
+Literature,Fairy Tale,The Three Billygoats Gruff
+Popular culture,Movie,101 Dalmations
+Literature,Book,The Wizard of Oz
+Popular culture,Movie,"Monsters, Inc."
+Literature,Fairy Tale,Pinocchio
+Literature,Character,Paddington Bear
+Literature,Character,Peter Rabbit
+Popular culture,Movie,The Jungle Book
+Popular culture,TV show,Shaun the Sheep
+Popular culture,Movie,The Little Mermaid
+Popular culture,Movie,Shrek
+Literature,Character,Winnie the Pooh
+Literature,Character,Charlie Brown
+Popular culture,TV show,Maya the Bee
+Popular culture,Movie,Babe
+Popular culture,Movie,The Karate Kid
+Popular culture,Movie,Beauty and the Beast
+Literature,Book,Wind in the Willows
+Literature,Book ,Alice's Adventures in Wonderland
+Popular culture,TV show,Octonauts
+Popular culture,Character,Barney
+Popular culture,TV show,Care Bears
+Literature,Character,Curious George
