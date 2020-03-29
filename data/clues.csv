@@ -66,6 +66,8 @@ General knowledge,Brand,Lego
 Popular culture,Brand,Rainbocorn
 Popular culture,Brand,Sylvanian Families
 Popular culture,Brand,YouTube
+Popular culture,Brand,Takealot
+Popular culture,Brand,Pick'n'Pay
 Harry Potter,Character,Argus Filch
 Harry Potter,Character,Aragog
 Harry Potter,Character,Basilisk
@@ -147,7 +149,9 @@ Harry Potter,Game,Wizard chess
 Popular culture,Game,Dixit
 Popular culture,Game,Hide and seek
 Popular culture,Game,Solitaire
-,,
+Popular culture,Game,Snakes and ladders
+Popular culture,Game,Dominos
+Popular culture,Game,Puzzle
 Popular culture,Game,Bananagrams
 Popular culture,Game,Minecraft
 General knowledge,Important person,Bill Gates
@@ -211,6 +215,7 @@ Harry Potter,Role,Beater
 Popular culture,Song,Let's go fly a kite
 Popular culture,Song,Dance Monkey
 Popular culture,Song,Friday I'm in Love
+Popular culture,Song,Twinkle Twinkle Little Star
 General knowledge,Sport,Soccer
 General knowledge,Sport,Tennis
 General knowledge,Sport,Rugby
@@ -241,6 +246,7 @@ Literature,Book,The Borrowers
 Literature,Book,Charlie and the Chocolate Factory
 Literature,Book,Harold and the Purple Crayon
 Literature,Book,Duck in the Truck
+Literature,Book,We're Going on a Bear Hunt
 Popular culture,TV show,Hey Duggie!
 Popular culture,TV show,My Little Poney
 Popular culture,TV show,Peppa Pig
