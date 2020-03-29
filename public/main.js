@@ -40,6 +40,11 @@ function loadCard(cardIndex) {
     'use strict';
     console.log('cardindex: %d', cardIndex);
 
+    // If we're on the landing card, clear it
+    if (document.querySelector('#landing')) {
+        document.querySelector('#landing').remove();
+    }
+
     // If the first card, hide the 'previous' button
     nextButtonText('Next card');
     if (cardIndex < 2) {
