@@ -4,6 +4,8 @@ We wanted to play 30 Seconds with our seven-year-old, but our set is really old 
 
 [Play now!](https://quick-kids.netlify.com/)
 
+Tip: If you only have three people, two play as guessers, and one is the describer for the whole game.
+
 ## Development
 
 We maintain the clues in a [Google Sheet](https://docs.google.com/spreadsheets/d/1dDswbV5O-VVTHNIRhtP-fa-pZOlWYPqMVDMmPtua_EM/edit?usp=sharing).
