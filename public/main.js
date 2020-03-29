@@ -63,12 +63,26 @@ function loadCard(cardIndex) {
     }
 }
 
+// Randomise the list
+// https://stackoverflow.com/a/12646864/1781075
+function shuffle(array) {
+    'use strict';
+    var i, j, temp;
+    for (i = array.length - 1; i > 0; i -= 1) {
+        j = Math.floor(Math.random() * (i + 1));
+        temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+    return array;
+}
+
 function loadCards() {
     'use strict';
 
     var container = document.getElementById('card');
 
-    cards.forEach(function (card) {
+    shuffle(cards).forEach(function (card) {
         var list = document.createElement('ul');
         list.style.display = 'none';
         card.forEach(function (clue) {
