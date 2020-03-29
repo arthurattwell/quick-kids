@@ -1,163 +1,252 @@
 Theme,Type,Clue
-General knowledge,Place,Amazon
-General knowledge,Place,America
-Harry Potter,Character,Argus Filch
-Popular culture,Character,Applejack
-Harry Potter,Character,Aragog
-Popular culture,Character,Aughra
+General knowledge,Activity,Running
+General knowledge,Activity,Swimming
+General knowledge,Activity,Dancing
+General knowledge,Activity,Singing
 General knowledge,Animal,Baboon
-Popular culture,Character,Barbie
-Harry Potter,Character,Basilisk
-Harry Potter,Role,Beater
-Harry Potter,Character,Bertie Bott
-Popular culture,Movie,Big Hero Six
-General knowledge,Important person,Bill Gates
 General knowledge,Animal,Black mamba
-Harry Potter,Character,Buckbeak
 General knowledge,Animal,Budgie
 General knowledge,Animal,Butterfly
-Harry Potter,Artefact,Candles
-General knowledge,Place,Cape Town
-Harry Potter,Animal,Cat
 General knowledge,Animal,Chameleon
-General knowledge,Game,Chess
-Harry Potter,Food,Chocolate
-Popular culture,Occasion,Christmas
-General knowledge,Issue,Climate change
-Harry Potter,Character,Colin Creevey
-Harry Potter,Character,Cornelius Fudge
 General knowledge,Animal,Crocodile
-Popular culture,Song,Dance Monkey
-Harry Potter,Animal,Dapple-grey stallion
-Popular culture,Character,Deet
-Harry Potter,Character,Dementor
-General knowledge,Artefact,Dishwasher
-Popular culture,Occasion,Diwali
-Popular culture,Game,Dixit
 General knowledge,Animal,Dolphin
-Literature,Book,Don't let the pigeon drive the bus
-General knowledge,Important person,Donald Trump
-General knowledge,Magical creature,Dragon
-Harry Potter,Character,Dumbledore
-Harry Potter,Artefact,Ear muffs
-Popular culture,Occasion,Easter
-General knowledge,Place,England
-Harry Potter,Artefact,Erised
-General knowledge,Magical creature,Fairy
-Harry Potter,Character,Fang
-Harry Potter,Character,Fawkes
-General knowledge,Food,Fish fingers
-Popular culture,Character,Fluttershy
-Harry Potter,Place,Forbidden Forest
-Popular culture,Song,Friday I'm in Love
-Harry Potter,Character,Gilderoy Lockhart
 General knowledge,Animal,Giraffe
-Harry Potter,Artefact,Golden Snitch
-Harry Potter,Place,Great Hall
-Harry Potter,Place,Gringotts
-Harry Potter,Character,Hagrid
 General knowledge,Animal,Hamster
-Harry Potter,Artefact,Hand mirror
-Popular culture,Occasion,Hannukah
-Harry Potter,Character,Hedwig
-Harry Potter,Character,Hermione Granger
-Popular culture,Character,Hiccup
-Harry Potter,Animal,Hippogriff
 General knowledge,Animal,Hippopotamus
-Harry Potter,Place,Hogsmead
-General knowledge,Food,Hot dog
-Popular culture,Movie,How to Train Your Dragon
-Popular culture,Important person,JK Rowling
-General knowledge,Place,Johannesburg
-Harry Potter,Character,Justin Finch-Fletchley
-Harry Potter,Artefact,Knight Bus
-Popular culture,Movie,Kung Fu Panda
-General knowledge,Brand,Lego
-Mary Poppins,Song,Let's go fly a kite
-Harry Potter,Character,Luna Lovegood
-General knowledge,Food,Macaroni cheese
-Harry Potter,Animal,Mandrake
-Mary Poppins,Character,Mary Poppins
-Popular culture,Character,Maud Spellbody
 General knowledge,Animal,Meerkat
-General knowledge,Magical creature,Mermaid
-General knowledge,Artefact,Microwave
-Popular culture,Character,Mildred Hubble
-Harry Potter,Organisation,Ministry of Magic
-Literature,Important person,Mo Willems
-Harry Potter,Character,Mr Dursley
-Harry Potter,Character,Mrs Norris
-General knowledge,Food,Nachos
 General knowledge,Animal,Narwhal
-General knowledge,Food,Neapolitan ice-cream
-General knowledge,Important person,Nelson Mandela
-Harry Potter,Place,Nine and three quarters
-Popular culture,TV show,Odd Squad
-Harry Potter,Place,Olivander's
-General knowledge,Food,Omelette
-General knowledge,Food,Pancake
 General knowledge,Animal,Panda
-Harry Potter,Artefact,Parchment
-Harry Potter,Character,Peeves
-Harry Potter,Animal,Phoenix
-Harry Potter,Creature,Pixies
-Popular culture,Creature,Podling
-Harry Potter,Creature,Poltergeist
-Harry Potter,Character,Professor MacGonagall
-Harry Potter,Character,Professor Quirrel
-Harry Potter,Character,Professor Trelawney
-Harry Potter,Plant,Pumpkins
-Harry Potter,Artefact,Quill
-Popular culture,Brand,Rainbocorn
-General knowledge,Place,Rainforest
-Popular culture,Occasion,Ramadan
-Harry Potter,Character,Ron Weasley
-Harry Potter,Substance,Ruby
-General knowledge,Game,Rummykub
-Harry Potter,Character,Scabbers
 General knowledge,Animal,Shark
-Harry Potter,Character,Sirius Black
-Popular culture,Creature,Skeksis
-General knowledge,Sport,Soccer
-General knowledge,Place,South Africa
-Harry Potter,Animal,Spiders
-Popular culture,Sport,Sumo
-General knowledge,Food,Sushi
-Popular culture,Brand,Sylvanian Families
-General knowledge,Sport,Tennis
-Harry Potter,Character,The Grey Lady
-Popular culture,TV show,The Magic Schoolbus
-Popular culture,Place,Thra
 General knowledge,Animal,Tiger
-Popular culture,Character,Tinkerbell
-Harry Potter,Character,Tom Riddle
-Popular culture,Character,Toothless
 General knowledge,Animal,Toucan
-General knowledge,Artefact,Trampoline
-Popular culture,Character,Twilight Sparkle
 General knowledge,Animal,Tyrannosaurus Rex
-General knowledge,Magical creature,Unicorn
-Harry Potter,Artefact,Unicorn hair
-General knowledge,Game,Uno
-Popular culture,Occasion,Valentine's Day
-Harry Potter,Character,Voldemort
-Harry Potter,Artefact,Wand
 General knowledge,Animal,Warthog
-Harry Potter,Thing,Whomping Willow
-Harry Potter,Force,Wingardium Leviosa
-Popular culture,TV show,Winx
-Harry Potter,Game,Wizard chess
-Popular culture,Brand,YouTube
 General knowledge,Animal,Zebra
-General knowledge,Place,Australia
 General knowledge,Animal,Koala bear
 General knowledge,Animal,Kangaroo
 General knowledge,Animal,Boomslang
 General knowledge,Animal,Platypus
 General knowledge,Animal,Giant squid
-General knowledge,Place,Himalayas
 General knowledge,Animal,Octopus
 General knowledge,Animal,Vampire bat
 General knowledge,Animal,Fish eagle
 General knowledge,Animal,Blue whale
 General knowledge,Animal,Anenome
+General knowledge,Animal,Clown fish
+General knowledge,Animal,Polar bear
+General knowledge,Animal,Rabbit
+General knowledge,Animal,Dragonfly
+General knowledge,Animal,Ostrich
+Harry Potter,Animal,Cat
+Harry Potter,Animal,Dapple-grey stallion
+Harry Potter,Animal,Hippogriff
+Harry Potter,Animal,Mandrake
+Harry Potter,Animal,Phoenix
+Harry Potter,Animal,Spiders
+General knowledge,Artefact,Dishwasher
+General knowledge,Artefact,Microwave
+General knowledge,Artefact,Trampoline
+General knowledge,Artefact,Slide
+General knowledge,Artefact,Swing
+General knowledge,Artefact,Tap
+General knowledge,Artefact,Bath
+General knowledge,Artefact,Oven
+Harry Potter,Artefact,Candles
+Harry Potter,Artefact,Ear muffs
+Harry Potter,Artefact,Erised
+Harry Potter,Artefact,Golden Snitch
+Harry Potter,Artefact,Hand mirror
+Harry Potter,Artefact,Knight Bus
+Harry Potter,Artefact,Parchment
+Harry Potter,Artefact,Quill
+Harry Potter,Artefact,Unicorn hair
+Harry Potter,Artefact,Wand
+Literature,Book,Don't let the pigeon drive the bus
+General knowledge,Brand,Lego
+Popular culture,Brand,Rainbocorn
+Popular culture,Brand,Sylvanian Families
+Popular culture,Brand,YouTube
+Harry Potter,Character,Argus Filch
+Harry Potter,Character,Aragog
+Harry Potter,Character,Basilisk
+Harry Potter,Character,Bertie Bott
+Harry Potter,Character,Buckbeak
+Harry Potter,Character,Colin Creevey
+Harry Potter,Character,Cornelius Fudge
+Harry Potter,Character,Dementor
+Harry Potter,Character,Dumbledore
+Harry Potter,Character,Fang
+Harry Potter,Character,Fawkes
+Harry Potter,Character,Gilderoy Lockhart
+Harry Potter,Character,Hagrid
+Harry Potter,Character,Hedwig
+Harry Potter,Character,Hermione Granger
+Harry Potter,Character,Justin Finch-Fletchley
+Harry Potter,Character,Luna Lovegood
+Harry Potter,Character,Mr Dursley
+Harry Potter,Character,Mrs Norris
+Harry Potter,Character,Peeves
+Harry Potter,Character,Professor MacGonagall
+Harry Potter,Character,Professor Quirrel
+Harry Potter,Character,Professor Trelawney
+Harry Potter,Character,Ron Weasley
+Harry Potter,Character,Scabbers
+Harry Potter,Character,Sirius Black
+Harry Potter,Character,The Grey Lady
+Harry Potter,Character,Tom Riddle
+Harry Potter,Character,Voldemort
+Popular culture,Character,Mary Poppins
+Popular culture,Character,Applejack
+Popular culture,Character,Aughra
+Popular culture,Character,Barbie
+Popular culture,Character,Deet
+Popular culture,Character,Fluttershy
+Popular culture,Character,Hiccup
+Popular culture,Character,Maud Spellbody
+Popular culture,Character,Mildred Hubble
+Popular culture,Character,Tinkerbell
+Popular culture,Character,Toothless
+Popular culture,Character,Twilight Sparkle
+Popular culture,Character,Pinky Pie
+Popular culture,Character,Po
+Popular culture,Character,Buzz Lightyear
+Popular culture,Character,Daddy Pig
+Harry Potter,Creature,Pixies
+Harry Potter,Creature,Poltergeist
+Popular culture,Creature,Podling
+Popular culture,Creature,Skeksis
+General knowledge,Food,Fish fingers
+General knowledge,Food,Hot dog
+General knowledge,Food,Macaroni cheese
+General knowledge,Food,Nachos
+General knowledge,Food,Neapolitan ice-cream
+General knowledge,Food,Omelette
+General knowledge,Food,Pancake
+General knowledge,Food,Sushi
+General knowledge,Food,Watermelon
+General knowledge,Food,Grapes
+General knowledge,Food,Pizza
+General knowledge,Food,Mashed potatoes
+General knowledge,Food,Broccoli
+General knowledge,Food,Marshmallow Easter egg
+General knowledge,Food,Olive
+General knowledge,Food,Lollypop
+General knowledge,Food,Carrot cake
+General knowledge,Food,Pea soup
+General knowledge,Food,Doughnut
+General knowledge,Food,Kebab
+General knowledge,Food,Onion
+General knowledge,Food,Banana
+General knowledge,Food,Lemon Cream
+Harry Potter,Food,Chocolate
+Harry Potter,Force,Wingardium Leviosa
+General knowledge,Game,Chess
+General knowledge,Game,Rummykub
+General knowledge,Game,Uno
+Harry Potter,Game,Wizard chess
+Popular culture,Game,Dixit
+Popular culture,Game,Hide and seek
+Popular culture,Game,Solitaire
+,,
+Popular culture,Game,Bananagrams
+Popular culture,Game,Minecraft
+General knowledge,Important person,Bill Gates
+General knowledge,Important person,Donald Trump
+General knowledge,Important person,Nelson Mandela
+Literature,Important person,Mo Willems
+Popular culture,Important person,JK Rowling
+General knowledge,Issue,Climate change
+General knowledge,Magical creature,Dragon
+General knowledge,Magical creature,Fairy
+General knowledge,Magical creature,Mermaid
+General knowledge,Magical creature,Unicorn
+Popular culture,Movie,Big Hero Six
+Popular culture,Movie,How to Train Your Dragon
+Popular culture,Movie,Neverending Story
+Popular culture,Movie,Kung Fu Panda
+Popular culture,Movie,Star Wars
+Popular culture,Movie,Spiderman
+Popular culture,Occasion,Christmas
+Popular culture,Occasion,Diwali
+Popular culture,Occasion,Easter
+Popular culture,Occasion,Hannukah
+Popular culture,Occasion,Ramadan
+Popular culture,Occasion,Valentine's Day
+Harry Potter,Organisation,Ministry of Magic
+General knowledge,Phenomenon,Rainbow
+General knowledge,Phenomenon,Lightening
+General knowledge,Phenomenon,Wind
+General knowledge,Phenomenon,Full moon
+General knowledge,Phenomenon,Hail storm
+General knowledge,Phenomenon,Mist
+General knowledge,Phenomenon,Monkey's wedding
+General knowledge,Phenomenon,Thunder
+General knowledge,Place,Amazon
+General knowledge,Place,America
+General knowledge,Place,Cape Town
+General knowledge,Place,England
+General knowledge,Place,Johannesburg
+General knowledge,Place,Rainforest
+General knowledge,Place,South Africa
+General knowledge,Place,Australia
+General knowledge,Place,Himalayas
+General knowledge,Place,London
+General knowledge,Place,Egypt
+Harry Potter,Place,Forbidden Forest
+Harry Potter,Place,Great Hall
+Harry Potter,Place,Gringotts
+Harry Potter,Place,Hogsmead
+Harry Potter,Place,Platform Nine and three quarters
+Harry Potter,Place,Olivander's
+Popular culture,Place,Thra
+General knowledge,Plant,Rose
+General knowledge,Plant,Cactus
+General knowledge,Plant,Palm tree
+Harry Potter,Plant,Pumpkins
+General knowledge,Relationship,Cousin
+General knowledge,Relationship,Sibling
+General knowledge,Relationship,Aunt
+General knowledge,Relationship,Grandfather
+Harry Potter,Role,Beater
+Popular culture,Song,Let's go fly a kite
+Popular culture,Song,Dance Monkey
+Popular culture,Song,Friday I'm in Love
+General knowledge,Sport,Soccer
+General knowledge,Sport,Tennis
+General knowledge,Sport,Rugby
+Popular culture,Sport,Sumo
+General knowledge,Substance,Diamond
+General knowledge,Substance,Ice
+General knowledge,Substance,Lava
+General knowledge,Substance,Steel
+General knowledge,Substance,Cottonwool
+General knowledge,Substance,Silk
+Harry Potter,Substance,Ruby
+Harry Potter,Thing,Whomping Willow
+Popular culture,TV show,Odd Squad
+Popular culture,TV show,The Magic Schoolbus
+Popular culture,TV show,Winx
+Popular culture,TV show,Gummi Bears
+Popular culture,TV show,Paw Patrol
+Popular culture,TV show,Strawberry Shortcake
+Popular culture,TV show,Ben and Holly
+Popular culture,Movie,The Lorax
+Literature,Character,Matilda
+Literature,Book,The Cat in the Hat
+Literature,Book,The Very Hungy Caterpillar
+Literature,Book,Where the Wild Things Are
+Literature,Book,The Gruffalo
+Literature,Book,The Snail and the Whale
+Literature,Book,The Borrowers
+Literature,Book,Charlie and the Chocolate Factory
+Literature,Book,Harold and the Purple Crayon
+Literature,Book,Duck in the Truck
+Popular culture,TV show,Hey Duggie!
+Popular culture,TV show,My Little Poney
+Popular culture,TV show,Peppa Pig
+Popular culture,TV show,The Great British Bake-off
+Popular culture,TV show,Princess Sofia
+Popular culture,Movie,Annie
+Popular culture,Movie,Trolls
+Popular culture,Movie,Inside Out
+Popular culture,Movie,Frozen
