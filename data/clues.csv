@@ -3,6 +3,7 @@ General knowledge,Activity,running
 General knowledge,Activity,swimming
 General knowledge,Activity,dancing
 General knowledge,Activity,singing
+General knowledge,Animal,turtle
 General knowledge,Animal,baboon
 General knowledge,Animal,black mamba
 General knowledge,Animal,budgie
@@ -54,6 +55,8 @@ General knowledge,Artefact,oven
 General knowledge,Artefact,wheelbarrow
 General knowledge,Artefact,ironing board
 General knowledge,Artefact,washing line
+General knowledge,Artefact,teapot
+General knowledge,Artefact,paintbrush
 Harry Potter,Artefact,candles
 Harry Potter,Artefact,ear muffs
 Harry Potter,Artefact,Mirror of Erised
@@ -157,6 +160,8 @@ General knowledge,Clothing,blazer
 General knowledge,Clothing,bowtie
 General knowledge,Clothing,ballgown
 General knowledge,Clothing,veil
+General knowledge,Clothing,watch
+General knowledge,Clothing,crown
 Harry Potter,Creature,pixies
 Harry Potter,Creature,poltergeist
 Popular culture,Creature,Podling
@@ -201,6 +206,7 @@ General knowledge,Food,toasted cheese
 General knowledge,Food,fish and chips
 General knowledge,Food,salt
 General knowledge,Food,pepper
+General knowledge,Food,chewing gum
 General knowledge,Food,tomato sauce
 General knowledge,Game,chess
 General knowledge,Food,baked beans
@@ -216,6 +222,10 @@ Popular culture,Game,dominos
 Popular culture,Game,puzzle
 Popular culture,Game,Bananagrams
 Popular culture,Game,Minecraft
+Harry Potter,House,Hufflepuff
+Harry Potter,House,Gryffindor
+Harry Potter,House,Slytherin
+Harry Potter,House,Ravenclaw
 General knowledge,Important person,Bill Gates
 General knowledge,Important person,Donald Trump
 General knowledge,Important person,Nelson Mandela
@@ -296,6 +306,7 @@ General knowledge,Plant,rose
 General knowledge,Plant,cactus
 General knowledge,Plant,palm tree
 General knowledge,Plant,sunflower
+General knowledge,Plant,seaweed
 Harry Potter,Plant,pumpkins
 General knowledge,Relationship,cousin
 General knowledge,Relationship,sibling
@@ -441,6 +452,7 @@ General knowledge,Role,doctor
 General knowledge,Role,scientist
 General knowledge,Role,firefighter
 General knowledge,Role,policeman
+General knowledge,Role,chef
 Popular culture,Toy,bouncy ball
 Popular culture,Toy,teddy bear
 Popular culture,Toy,bicycle
@@ -450,6 +462,8 @@ Popular culture,Toy,glitter pen
 Popular culture,Toy,yo-yo
 Popular culture,Toy,hula hoop
 Popular culture,Toy,play dough
+Popular culture,Toy,marbles
+Popular culture,Toy,Rubik's Cube
 General knowledge,Plant,venus flytrap
 General knowledge,Plant,weeping willow
 General knowledge,Plant,oak tree
@@ -470,3 +484,4 @@ General knowledge,Vehicle,crane
 General knowledge,Vehicle,rocket
 General knowledge,Vehicle,submarine
 General knowledge,Vehicle,rubbish truck
+General knowledge,Vehicle,tractor
