@@ -8,6 +8,10 @@ Tip: If you only have three people, two play as guessers, and one is the describ
 
 If you don't know [30 Seconds](https://en.wikipedia.org/wiki/30_Seconds_%28game%29), or don't have a physical set, you should get one, it's a great family game – and always more fun playing on an official board. It was invented in South Africa by Calie Esterhuyse, and has been adapted for [Ireland](http://www.30seconds.ie/) and [the UK](https://www.amazon.com/SmartGames-Seconds-Multi-Player-Board-Game/dp/B07YLZCHZZ/), too.
 
+## Feedback and contributing
+
+If you have feedback or want to contribute, please [log an issue](https://github.com/arthurattwell/quick-kids/issues/new).
+
 ## Development
 
 We maintain the clues in a [Google Sheet](https://docs.google.com/spreadsheets/d/1dDswbV5O-VVTHNIRhtP-fa-pZOlWYPqMVDMmPtua_EM/edit?usp=sharing).
