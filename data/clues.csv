@@ -262,7 +262,7 @@ Popular culture,Occasion,birthday
 Popular culture,Occasion,Halloween
 Harry Potter,Organisation,Ministry of Magic
 General knowledge,Phenomenon,rainbow
-General knowledge,Phenomenon,lightening
+General knowledge,Phenomenon,lightning
 General knowledge,Phenomenon,wind
 General knowledge,Phenomenon,full moon
 General knowledge,Phenomenon,hail storm
@@ -330,7 +330,7 @@ Popular culture,Song,Waka Waka (This Time for Africa)
 Popular culture,Song,High Hopes
 Popular culture,Song,Happy
 Popular culture,Song,Old Town Road
-General knowledge,Sport,Ruby
+General knowledge,Sport,ruby
 General knowledge,Sport,soccer
 General knowledge,Sport,tennis
 General knowledge,Sport,rugby
@@ -436,7 +436,6 @@ Popular culture,Character,Barney
 Popular culture,TV show,Care Bears
 Literature,Character,Curious George
 Literature,Character,Mr Strong
-General knowledge,Role,publisher
 General knowledge,Role,nurse
 General knowledge,Role,astronaut
 General knowledge,Role,teacher
@@ -444,7 +443,6 @@ General knowledge,Role,artist
 General knowledge,Role,dancer
 General knowledge,Role,engineer
 General knowledge,Role,lawyer
-General knowledge,Role,accountant
 General knowledge,Role,writer
 General knowledge,Role,architect
 General knowledge,Role,actor
@@ -485,3 +483,4 @@ General knowledge,Vehicle,rocket
 General knowledge,Vehicle,submarine
 General knowledge,Vehicle,rubbish truck
 General knowledge,Vehicle,tractor
+Popular culture,Song,Incey Wincey Spider
