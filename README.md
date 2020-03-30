@@ -6,6 +6,8 @@ We wanted to play 30 Seconds with our seven-year-old, but our set is really old 
 
 Tip: If you only have three people, two play as guessers, and one is the describer for the whole game.
 
+If you don't know [30 Seconds](https://en.wikipedia.org/wiki/30_Seconds_%28game%29), or don't have a physical set, you should get one, it's a great family game – and always more fun playing on an official board. It was invented in South Africa by Calie Esterhuyse, and has been adapted for [Ireland](http://www.30seconds.ie/) and [the UK](https://www.amazon.com/SmartGames-Seconds-Multi-Player-Board-Game/dp/B07YLZCHZZ/), too.
+
 ## Development
 
 We maintain the clues in a [Google Sheet](https://docs.google.com/spreadsheets/d/1dDswbV5O-VVTHNIRhtP-fa-pZOlWYPqMVDMmPtua_EM/edit?usp=sharing).
@@ -13,6 +15,8 @@ We maintain the clues in a [Google Sheet](https://docs.google.com/spreadsheets/d
 I download a CSV to this repo as `data/clues.csv`. With Node installed and after `npm install`, I run `npm run refresh` to transform the updated data and generate `cards.js`.
 
 When working on the site, I'll run `npm start` instead, which refreshes the data from the CSV, builds and watches CSS, and runs a local server.
+
+Netlify watches the repo, and serves the `public` directory at [https://quick-kids.netlify.com/](https://quick-kids.netlify.com/).
 
 ## Credits
 
