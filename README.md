@@ -6,7 +6,7 @@ We wanted to play 30 Seconds with our seven-year-old, but our set is really old 
 
 Tip: If you only have three people, two play as guessers, and one is the describer for the whole game.
 
-If you don't know [30 Seconds](https://en.wikipedia.org/wiki/30_Seconds_%28game%29), or don't have a physical set, you should get one, it's a great family game – and always more fun playing on an official board. It was invented in South Africa by Calie Esterhuyse, and has been adapted for [Ireland](http://www.30seconds.ie/) and [the UK](https://www.amazon.com/SmartGames-Seconds-Multi-Player-Board-Game/dp/B07YLZCHZZ/), too.
+If you don't know [30 Seconds](https://en.wikipedia.org/wiki/30_Seconds_%28game%29), or don't have a physical set, you should get one, it's a great family game – and always more fun playing on an official board. It was invented in South Africa by Calie Esterhuyse, [almost named 'Rudy Nappi'](https://boereworsexpress.blogspot.com/2012/07/30-seconds-south-african-game.html?m=1) by [Schalk Burger](https://en.wikipedia.org/wiki/Schalk_Burger), and has been adapted for [Ireland](http://www.30seconds.ie/), [the UK](https://www.amazon.com/SmartGames-Seconds-Multi-Player-Board-Game/dp/B07YLZCHZZ/), the USA and the Netherlands.
 
 ## Feedback and contributing
 
