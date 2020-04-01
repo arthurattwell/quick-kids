@@ -2,7 +2,7 @@
 
 We wanted to play 30 Seconds with our seven-year-old, but our set is really old and too grown-up for him. So we made this. The grown-ups play the usual cards, and he plays these ones.
 
-[Play now!](https://quick-kids.netlify.com/)
+[Play now!](https://quick-kids.netlify.app/)
 
 Tip: If you only have three people, two play as guessers, and one is the describer for the whole game.
 
@@ -20,7 +20,7 @@ I download a CSV to this repo as `data/clues.csv`. With Node installed and after
 
 When working on the site, I'll run `npm start` instead, which refreshes the data from the CSV, builds and watches CSS, and runs a local server.
 
-Netlify watches the repo, and serves the `public` directory at [https://quick-kids.netlify.com/](https://quick-kids.netlify.com/).
+Netlify watches the repo, and serves the `public` directory at [https://quick-kids.netlify.app/](https://quick-kids.netlify.app/).
 
 ## Credits
 
