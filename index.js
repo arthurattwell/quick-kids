@@ -55,7 +55,7 @@ function createCards(cluesByType) {
             cluesByType.forEach(function (type) {
                 counter += type.clues.length;
             });
-            if (counter < 5) {
+            if (counter < 4) {
                 return false;
             } else {
                 return counter;
@@ -107,7 +107,7 @@ function createCards(cluesByType) {
             }
 
             var i;
-            for (i = 0; i < 5; i += 1) {
+            for (i = 0; i < 4; i += 1) {
                 addNextClue(card);
             }
 
@@ -115,7 +115,7 @@ function createCards(cluesByType) {
         }
 
         // Keep making cards while we still have clues
-        var numberOfCards = Math.round(remainingClues() / 5) - 1;
+        var numberOfCards = Math.round(remainingClues() / 4) - 1;
         console.log('numberOfCards: %d', numberOfCards);
         var i;
         for (i = 0; i < numberOfCards; i += 1) {

@@ -38,7 +38,6 @@ function nextButtonText(text) {
 
 function loadCard(cardIndex) {
     'use strict';
-    console.log('cardindex: %d', cardIndex);
 
     // If we're on the landing card, clear it
     if (document.querySelector('#landing')) {

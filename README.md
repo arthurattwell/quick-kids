@@ -1,12 +1,10 @@
 # Quick Kids
 
-We wanted to play 30 Seconds with our seven-year-old, but our set is really old and too grown-up for him. So we made this. The grown-ups play the usual cards, and he plays these ones.
+Isolated at home under lockdown, we wanted to play a general-knowledge game with our seven-year-old. So we made this. It's free and open-source, and [you can play it, too](https://quick-kids.netlify.app/).
 
-[Play now!](https://quick-kids.netlify.app/)
+The game mechanics are similar to 30 Seconds, but Quick Kids is in no way endorsed by the makers of 30 Seconds, nor are they in any way responsible for it.
 
-Tip: If you only have three people, two play as guessers, and one is the describer for the whole game.
-
-If you don't know [30 Seconds](https://en.wikipedia.org/wiki/30_Seconds_%28game%29), or don't have a physical set, you should get one, it's a great family game – and always more fun playing on an official board. It was invented in South Africa by Calie Esterhuyse, [almost named 'Rudy Nappi'](https://boereworsexpress.blogspot.com/2012/07/30-seconds-south-african-game.html?m=1) by [Schalk Burger](https://en.wikipedia.org/wiki/Schalk_Burger), and has been adapted for [Ireland](http://www.30seconds.ie/), [the UK](https://www.amazon.com/SmartGames-Seconds-Multi-Player-Board-Game/dp/B07YLZCHZZ/), the USA and the Netherlands.
+If you don't know [30 Seconds](https://en.wikipedia.org/wiki/30_Seconds_%28game%29), or don't have a physical set, you should get one, it's a great family game best played on an official board. It was invented in South Africa by Calie Esterhuyse, [almost named 'Rudy Nappi'](https://boereworsexpress.blogspot.com/2012/07/30-seconds-south-african-game.html?m=1) by [Schalk Burger](https://en.wikipedia.org/wiki/Schalk_Burger), and has been adapted for [Ireland](http://www.30seconds.ie/), [the UK](https://www.amazon.com/SmartGames-Seconds-Multi-Player-Board-Game/dp/B07YLZCHZZ/), the USA and the Netherlands.
 
 ## Feedback and contributing
 

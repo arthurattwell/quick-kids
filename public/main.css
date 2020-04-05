@@ -1,9 +1,9 @@
 @keyframes timer {
   from {
-    background-color: #333;
+    background-color: #323232;
     width: 0; }
   to {
-    background-color: #333;
+    background-color: #323232;
     width: calc(100% + 6em); } }
 
 body {
@@ -13,7 +13,7 @@ body {
   height: 90vh;
   justify-content: center;
   background-color: #e2e2e2;
-  color: #333;
+  color: #323232;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   letter-spacing: 0.01em;
   line-height: 1.4; }
@@ -24,8 +24,9 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: #efef51;
-  box-shadow: 0px 0px 40px -10px #b3b3b3;
+  background-color: #94cab6;
+  border-radius: 0.5em 0.5em 0 0;
+  box-shadow: 0px 0px 40px 0px #b3b3b3;
   height: 15rem;
   max-height: 90vh;
   max-width: 90vw;
@@ -47,14 +48,14 @@ body {
       bottom: calc((15rem - 100%) / -2);
       content: "";
       display: block;
-      height: 0.2em;
+      height: 0.3em;
       left: -3rem;
       position: absolute;
-      animation-duration: 30s;
+      animation-duration: 5s;
       animation-name: timer;
       animation-timing-function: linear;
       width: calc(100% + 3rem + 3rem);
-      background-color: #ef51ef; }
+      background-color: #ce5c5c; }
 
 .buttons {
   display: flex;
@@ -68,8 +69,8 @@ body {
     .buttons button:first-child {
       margin-right: 2em; }
     .buttons button:hover {
-      background-color: #333;
-      border-color: #333;
+      background-color: #323232;
+      border-color: #323232;
       color: #e2e2e2; }
     .buttons button[style="visibility: hidden"] {
       display: none; }

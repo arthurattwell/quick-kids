@@ -8,11 +8,13 @@ $card-padding-top: 1rem;
 $card-padding-bottom: 1rem;
 $card-padding-left: 3rem;
 $card-padding-right: 3rem;
+$card-time: 5s;
+$card-timer-height: 0.3em;
 
 // Colours
-$card-color: #efef51;
-$timeout-color: #ef51ef;
-$black: #333;
+$card-color: #94cab6;
+$timeout-color: #ce5c5c;
+$black: #323232;
 $darkgrey: #6a6a6a;
 $grey: #b3b3b3;
 $offwhite: #e2e2e2;
@@ -57,7 +59,8 @@ body {
 
     // Appearance
     background-color: $card-color;
-    box-shadow: 0px 0px 40px -10px $grey;
+    border-radius: 0.5em 0.5em 0 0;
+    box-shadow: 0px 0px 40px 0px $grey;
     height: $card-height;
     max-height: 90vh;
     max-width: 90vw;
@@ -85,12 +88,12 @@ body {
             bottom: calc((#{$card-height} - 100%) / -2); // stays in place with card padding
             content: "";
             display: block;
-            height: 0.2em;
+            height: $card-timer-height;
             left: -($card-padding-left); // card padding
             position: absolute;
 
             // Animaion
-            animation-duration: 30s;
+            animation-duration: $card-time;
             animation-name: timer;
             animation-timing-function: linear;
 
