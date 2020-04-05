@@ -51,7 +51,7 @@ body {
       height: 0.3em;
       left: -3rem;
       position: absolute;
-      animation-duration: 5s;
+      animation-duration: 35s;
       animation-name: timer;
       animation-timing-function: linear;
       width: calc(100% + 3rem + 3rem);
