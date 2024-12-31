@@ -1,11 +1,13 @@
 @keyframes timer {
   from {
     background-color: #323232;
-    width: 0; }
+    width: 0;
+  }
   to {
     background-color: #323232;
-    width: calc(100% + 6em); } }
-
+    width: calc(100% + 6em);
+  }
+}
 body {
   align-items: center;
   display: flex;
@@ -16,9 +18,11 @@ body {
   color: #323232;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   letter-spacing: 0.01em;
-  line-height: 1.4; }
-  body * {
-    box-sizing: border-box; }
+  line-height: 1.4;
+}
+body * {
+  box-sizing: border-box;
+}
 
 #card {
   display: flex;
@@ -34,46 +38,54 @@ body {
   padding-bottom: 1rem;
   padding-left: 3rem;
   padding-right: 3rem;
-  width: 25rem; }
-  #card ul {
-    display: flex;
-    flex-direction: column;
-    flex: 1 1 auto;
-    justify-content: space-evenly;
-    position: relative;
-    list-style-type: none;
-    margin: 0;
-    padding: 0; }
-    #card ul::after {
-      bottom: calc((15rem - 100%) / -2);
-      content: "";
-      display: block;
-      height: 0.3em;
-      left: -3rem;
-      position: absolute;
-      animation-duration: 35s;
-      animation-name: timer;
-      animation-timing-function: linear;
-      width: calc(100% + 3rem + 3rem);
-      background-color: #ce5c5c; }
+  width: 25rem;
+}
+#card ul {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  justify-content: space-evenly;
+  position: relative;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#card ul::after {
+  bottom: calc((15rem - 100%) / -2);
+  content: "";
+  display: block;
+  height: 0.3em;
+  left: -3rem;
+  position: absolute;
+  animation-duration: 35s;
+  animation-name: timer;
+  animation-timing-function: linear;
+  width: calc(100% + 3rem + 3rem);
+  background-color: #ce5c5c;
+}
 
 .buttons {
   display: flex;
-  margin-top: 2em; }
-  .buttons button {
-    background-color: #e2e2e2;
-    border: 1px solid #b3b3b3;
-    cursor: pointer;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-    padding: 0.5em 1em; }
-    .buttons button:first-child {
-      margin-right: 2em; }
-    .buttons button:hover {
-      background-color: #323232;
-      border-color: #323232;
-      color: #e2e2e2; }
-    .buttons button[style="visibility: hidden"] {
-      display: none; }
+  margin-top: 2em;
+}
+.buttons button {
+  background-color: #e2e2e2;
+  border: 1px solid #b3b3b3;
+  cursor: pointer;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  padding: 0.5em 1em;
+}
+.buttons button:first-child {
+  margin-right: 2em;
+}
+.buttons button:hover {
+  background-color: #323232;
+  border-color: #323232;
+  color: #e2e2e2;
+}
+.buttons button[style="visibility: hidden"] {
+  display: none;
+}
 
 .about {
   bottom: 0;
@@ -81,9 +93,11 @@ body {
   font-size: 0.8rem;
   left: 0;
   padding: 1rem;
-  position: absolute; }
-  .about .name {
-    font-weight: bold; }
-
+  position: absolute;
+}
+.about .name {
+  font-weight: bold;
+}
 a {
-  color: inherit; }
+  color: inherit;
+}

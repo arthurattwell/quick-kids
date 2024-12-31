@@ -1,6 +1,6 @@
 /*jslint node*/
 
-var sass = require('node-sass');
+var sass = require('sass');
 var fs = require('fs');
 var chokidar = require('chokidar');
 
