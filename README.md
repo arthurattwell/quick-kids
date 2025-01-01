@@ -6,6 +6,8 @@ The game mechanics are similar to 30 Seconds, but Quick Kids is in no way endors
 
 If you don't know [30 Seconds](https://en.wikipedia.org/wiki/30_Seconds_%28game%29), or don't have a physical set, you should get one, it's a great family game best played on an official board. It was invented in South Africa by Calie Esterhuyse, [almost named 'Rudy Nappi'](https://boereworsexpress.blogspot.com/2012/07/30-seconds-south-african-game.html?m=1) by [Schalk Burger](https://en.wikipedia.org/wiki/Schalk_Burger), and has been adapted for [Ireland](http://www.30seconds.ie/), [the UK](https://www.amazon.com/SmartGames-Seconds-Multi-Player-Board-Game/dp/B07YLZCHZZ/), the USA and the Netherlands.
 
+See my other games and game pieces at [The League of Masks](https://leagueofmasks.com).
+
 ## Feedback and contributing
 
 If you have feedback or want to contribute, please [log an issue](https://github.com/arthurattwell/quick-kids/issues/new).
